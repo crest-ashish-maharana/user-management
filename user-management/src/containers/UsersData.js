@@ -2,7 +2,7 @@ import React from 'react';
 import { connect } from 'react-redux';
 
 function UsersData({ data }) {
-  console.log('Container Data=>\n', data.users)
+  // console.log('Container Data=>\n', data.users)
 
   return (
     <div>
